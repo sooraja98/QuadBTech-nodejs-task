@@ -69,7 +69,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/your-project.git
+git clone https://github.com/sooraja98/QuadBTech-nodejs-task.git
 Install project dependencies:
 
 bash
